@@ -73,6 +73,7 @@ public class BankAccountManagementSystem {
 		Scanner sc = new Scanner(System.in);
 
 		bankAccount.information();
+		
 
 	}
 
